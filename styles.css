@@ -16,3 +16,6 @@ h1 {
 table {
  border: 3px blue dotted;
 }
+th, td {
+ border: 2px black solid;
+}
